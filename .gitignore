@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+
+# Cmake auto generated file
+build
+
+# VScode auto generated file
+.vscode
